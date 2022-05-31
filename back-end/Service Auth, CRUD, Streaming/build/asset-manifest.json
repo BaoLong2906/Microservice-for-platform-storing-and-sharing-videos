@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a617e044.chunk.css",
+    "main.js": "/static/js/main.b5e3bb3a.chunk.js",
+    "main.js.map": "/static/js/main.b5e3bb3a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1d36379d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1d36379d.js.map",
+    "static/css/2.818011ed.chunk.css": "/static/css/2.818011ed.chunk.css",
+    "static/js/2.75784674.chunk.js": "/static/js/2.75784674.chunk.js",
+    "static/js/2.75784674.chunk.js.map": "/static/js/2.75784674.chunk.js.map",
+    "static/js/3.0c8df5e7.chunk.js": "/static/js/3.0c8df5e7.chunk.js",
+    "static/js/3.0c8df5e7.chunk.js.map": "/static/js/3.0c8df5e7.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.75784674.chunk.js.LICENSE.txt": "/static/js/2.75784674.chunk.js.LICENSE.txt",
+    "static/media/earth.f5a026cc.png": "/static/media/earth.f5a026cc.png",
+    "static/media/github-socialFULLHD.c0fcfce7.png": "/static/media/github-socialFULLHD.c0fcfce7.png",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/logoGenki.aae36720.svg": "/static/media/logoGenki.aae36720.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d36379d.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.75784674.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.b5e3bb3a.chunk.js"
+  ]
+}
